@@ -1,0 +1,28 @@
+name: edwardrosier
+favicon: null
+layout_spectrum: 0.2148857454303652
+typography_spectrum: 0.31849255645647645
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.27957928786054254
+  lightness: 0.7623656881041825
+  saturation: 0.42084005614742637
+  rhythmicContrast: 0.9081094502471387
+purpose: []
